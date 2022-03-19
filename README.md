@@ -18,3 +18,7 @@ Bunun içinde ilk olarak aşağıda ki linkte yer alan derleyici indirin.
 
 # 4 - Uygulama Nasıl Kullanılıyor?
 
+![alt text](https://raw.githubusercontent.com/BahadirDogrusoz/Password-Generator/main/Ads%C4%B1z.png)
+
+Uygulamayı çalıştırdığınız da sizi yukarıda ki gibi bir ekran karşılayacaktır. Bu ekrandan parolayı hangi site için üretmek istiyorsanız "Website" kısmına o sitenin ismini girmeniz gerekiyor.
+Daha sonra ise siteye üye olduğunuz email adresinizi veya kullanıcı adınızı Email/Username kısmına girmeniz gerekiyor. Üçüncü olarak ise "Parola üret" butonuna bastığınızda size parolanızı üretip veriyor. Son olarak ise "Ekle" butonuna tıklamanızla birlikte de parolanızı ve diğer girdiğiniz bilgileri "veri.json" isimli dosyaya kaydediyor.
